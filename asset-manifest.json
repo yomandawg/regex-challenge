@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/regex-challenge/static/js/main.61d4b373.chunk.js",
+    "main.js.map": "/regex-challenge/static/js/main.61d4b373.chunk.js.map",
+    "runtime-main.js": "/regex-challenge/static/js/runtime-main.f1df1760.js",
+    "runtime-main.js.map": "/regex-challenge/static/js/runtime-main.f1df1760.js.map",
+    "static/js/2.bc631a84.chunk.js": "/regex-challenge/static/js/2.bc631a84.chunk.js",
+    "static/js/2.bc631a84.chunk.js.map": "/regex-challenge/static/js/2.bc631a84.chunk.js.map",
+    "index.html": "/regex-challenge/index.html",
+    "precache-manifest.40725ae18c719e4a96110e1e2852a86d.js": "/regex-challenge/precache-manifest.40725ae18c719e4a96110e1e2852a86d.js",
+    "service-worker.js": "/regex-challenge/service-worker.js",
+    "static/js/2.bc631a84.chunk.js.LICENSE.txt": "/regex-challenge/static/js/2.bc631a84.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1df1760.js",
+    "static/js/2.bc631a84.chunk.js",
+    "static/js/main.61d4b373.chunk.js"
+  ]
+}
